@@ -20,7 +20,7 @@ xbrd = {'xula': Xula, 'xula2': Xula2, 'xula2_stickit_mb': Xula2StickItMB,
         'xupv2p': XUPV2P,}
 
 abrd = {'de0nano': DE0Nano, 'de0nano_soc': DE0NanoSOC, 'de0cv': DE0CV, 
-        'de1_soc': DE1SOC,}
+        'de1soc': DE1SOC,}
 
 lbrd = {'icestick': Icestick, 'catboard': CATBoard}
 
